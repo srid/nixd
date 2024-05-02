@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['wantdiagnostics_0',['wantDiagnostics',['../structlspserver_1_1DidChangeTextDocumentParams.html#aa5de91313cf41fc019c0d2ff6add6fd2',1,'lspserver::DidChangeTextDocumentParams']]],
+  ['warning_1',['Warning',['../namespacelspserver.html#a200604f8ba85e73cda84aa47933d8fcba0eaadb4fcb48a0a0ed7bc9868be9fbaa',1,'lspserver::Warning'],['../namespacenixd_1_1rpc.html#adb82fac4db5997115883b375252dd765a0eaadb4fcb48a0a0ed7bc9868be9fbaa',1,'nixd::rpc::Warning']]],
+  ['we_20❤️_20contributions_2',['We ❤️ Contributions!',['../md_nixd_2docs_2editor-setup.html',1,'']]],
+  ['where_20to_20place_20the_20configuration_3',['Where to place the configuration',['../md_nixd_2docs_2configuration.html#autotoc_md8',1,'']]],
+  ['who_20needs_20configuration_4',['Default configuration &amp; Who needs configuration',['../md_nixd_2docs_2configuration.html#autotoc_md7',1,'']]],
+  ['with_5',['with',['../classnixf_1_1ExprWith.html#a29f83259744bc8dfb316e7d2485799fc',1,'nixf::ExprWith']]],
+  ['with_20tt_20nix_3a_3aexpr_20tt_20expressions_6',['libnixt, Playing with &lt;tt&gt;nix::Expr&lt;/tt&gt; expressions.',['../md_libnixt_2README.html',1,'']]],
+  ['withdynamic_7',['WithDynamic',['../namespacenixd.html#a8a9fff4151180c5042891772c134b76ca021f27eceaa8a25b201cdbfc6f7146d3',1,'nixd']]],
+  ['workdoneprogress_8',['WorkDoneProgress',['../structlspserver_1_1ClientCapabilities.html#a12f51f1ebbf150096735b8c0d08ae1da',1,'lspserver::ClientCapabilities']]],
+  ['workdoneprogressbegin_9',['WorkDoneProgressBegin',['../structlspserver_1_1WorkDoneProgressBegin.html',1,'lspserver']]],
+  ['workdoneprogresscreateparams_10',['WorkDoneProgressCreateParams',['../structlspserver_1_1WorkDoneProgressCreateParams.html',1,'lspserver']]],
+  ['workdoneprogressend_11',['WorkDoneProgressEnd',['../structlspserver_1_1WorkDoneProgressEnd.html',1,'lspserver']]],
+  ['workdoneprogressreport_12',['WorkDoneProgressReport',['../structlspserver_1_1WorkDoneProgressReport.html',1,'lspserver']]],
+  ['workers_13',['Memory model about nix language &amp; nixd workers',['../md_nixd_2docs_2dev.html#autotoc_md17',1,'']]],
+  ['working_20executable_14',['Installation - get a working executable',['../md_nixd_2docs_2editor-setup.html#autotoc_md23',1,'']]],
+  ['workingdirectory_15',['workingDirectory',['../structlspserver_1_1ClangdCompileCommand.html#a6241182e88f916fa93a8ba490298bb2b',1,'lspserver::ClangdCompileCommand']]],
+  ['workspaceconfiguration_16',['WorkspaceConfiguration',['../structlspserver_1_1ClientCapabilities.html#a5c1a520b8a2460a00473adda0e35c340',1,'lspserver::ClientCapabilities']]],
+  ['workspaceedit_17',['WorkspaceEdit',['../structlspserver_1_1WorkspaceEdit.html',1,'lspserver']]],
+  ['workspacesymbolkinds_18',['WorkspaceSymbolKinds',['../structlspserver_1_1ClientCapabilities.html#a76b8d5eb3293f7d8fcd4956492ce4a3a',1,'lspserver::ClientCapabilities']]],
+  ['workspacesymbolparams_19',['WorkspaceSymbolParams',['../structlspserver_1_1WorkspaceSymbolParams.html',1,'lspserver']]],
+  ['wrap_20',['wrap',['../namespacelspserver_1_1detail.html#aa2ddd906ab8a11c9d4651a83c5b0cb26',1,'lspserver::detail::wrap(T &amp;&amp;V)'],['../namespacelspserver_1_1detail.html#a02ac1f849f3e0284a3f4a4e74d01af0f',1,'lspserver::detail::wrap(llvm::Error &amp;&amp;V)']]],
+  ['write_21',['Write',['../namespacelspserver.html#a63ffb3d295b12032400790fb555de2e9a1129c0e4d43f2d121652a7302712cff6',1,'lspserver']]],
+  ['write_20nix_20bytecode_20by_20using_20libnixf_20parser_22',['&lt;tt&gt;nixf-bc&lt;/tt&gt;, Write nix bytecode by using libnixf parser.',['../md_libnixf_2tools_2nixf-bc_2README.html',1,'']]],
+  ['writebytecode_23',['writeBytecode',['../namespacebc.html#a52d2ac05c5885b1cbf981d9c289ca4f6',1,'bc::writeBytecode(std::ostream &amp;OS, const T &amp;Data)'],['../namespacebc.html#a998001cae289a6568cdc93196c2368d1',1,'bc::writeBytecode(std::ostream &amp;OS, const std::string_view &amp;Data)'],['../namespacebc.html#a1dc2dd0ab00903723d7265eefc58cd84',1,'bc::writeBytecode(std::ostream &amp;OS, const std::string &amp;Data)'],['../namespacenixbc.html#ae575627b076ef1eb2e959d369f8aa90c',1,'nixbc::writeBytecode(std::ostream &amp;OS, const Origin &amp;O)'],['../namespacenixbc.html#a436fcb9df8affdf562ed866a0334ddea',1,'nixbc::writeBytecode(std::ostream &amp;OS, const OriginPath &amp;O)'],['../namespacenixf.html#a90e0513e7085c2f89b2bf043f8b21000',1,'nixf::writeBytecode()']]]
+];

@@ -1,0 +1,17 @@
+<map id="include" name="include">
+<area shape="rect" id="node2" href="dir_78474edbfdb26b7810ef0ed54a6ffeb0.html" title="nixd" alt="" coords="156,65,205,93"/>
+<area shape="rect" id="node3" href="dir_9ff0e04ed484c0229c3bd8fc4cfe4cb8.html" title="libnixf" alt="" coords="5,141,68,168"/>
+<area shape="poly" id="edge1" href="dir_000029_000023.html" alt="" coords="171,95,146,116,84,141,82,136,143,112,167,91"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000029_000023.html" title="4" alt="" coords="84,137,92,154"/>
+<area shape="rect" id="node4" href="dir_b78a71a762ff0582d59dc461a15bff38.html" title="lspserver" alt="" coords="92,141,173,168"/>
+<area shape="poly" id="edge2" href="dir_000029_000025.html" alt="" coords="174,95,152,129,147,126,170,92"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000029_000025.html" title="10" alt="" coords="150,121,166,138"/>
+<area shape="rect" id="node5" href="dir_c40eb6f7b133789742bdf3cebb28ba81.html" title="libnixt" alt="" coords="197,141,260,168"/>
+<area shape="poly" id="edge3" href="dir_000029_000024.html" alt="" coords="191,92,214,126,209,129,187,95"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000029_000024.html" title="2" alt="" coords="213,112,221,129"/>
+<area shape="rect" id="node6" href="dir_b55f34eed50f427f5a82f0c0c0b607fd.html" title="libbc" alt="" coords="284,141,336,168"/>
+<area shape="poly" id="edge4" href="dir_000029_000021.html" alt="" coords="205,91,275,131,272,135,202,96"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000029_000021.html" title="2" alt="" coords="271,115,279,132"/>
+<area shape="rect" id="clust2" href="dir_6072663c54edb131dd9eabf55cf77072.html" alt="" coords="53,54,217,103"/>
+<area shape="rect" id="clust1" href="dir_271d3aa807e54726686810b489123a0c.html" title="nixd" alt="" coords="42,16,227,114"/>
+</map>
